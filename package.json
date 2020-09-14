@@ -1,0 +1,38 @@
+{
+  "name": "syszzy",
+  "version": "1.0.0",
+  "description": "syszzy",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://192.168.28.251:8077/SYSZZY.git"
+  },
+  "author": "zlb",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.0.0",
+    "@babel/plugin-transform-modules-commonjs": "^7.10.4",
+    "@babel/plugin-transform-strict-mode": "^7.10.4",
+    "@babel/preset-env": "^7.11.5",
+    "babel-core": "^6.26.3",
+    "babel-plugin-transform-remove-strict-mode": "0.0.2",
+    "babel-preset-env": "^1.7.0",
+    "gulp": "^4.0.2",
+    "gulp-asset-rev": "0.0.15",
+    "gulp-babel": "^8.0.0",
+    "gulp-clean": "^0.4.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-connect": "^5.7.0",
+    "gulp-load-plugins": "^2.0.3",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-minify-html": "^1.0.6",
+    "gulp-plumber": "^1.2.1",
+    "gulp-rev": "^9.0.0",
+    "gulp-rev-collector": "^1.3.3",
+    "gulp-uglify": "^3.0.2",
+    "open": "^7.1.0"
+  }
+}
